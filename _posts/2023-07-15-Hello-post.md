@@ -5,21 +5,22 @@ title: 你好 Hello Hallo...
 tags: [2023, Basic, Demo]
 categories: Demo
 ---
+#### Can We See It?
 
- I am trying to make my own website, and this website is established based on the theme "Type on Strap" in "Jekyll", and github. Thanks to their developers! 
- To be honest, I have no idea if the website can work fluently or not. However, I tried, try, and will try my best to make it based on my current understanding.
- Maybe in the future, when I get sufficient knowledge in coding (and English (and maybe Deutsch)), I will present a better website for myself and everyone.
+ As you may know, I am trying to make my own website. And this website you can see is established based on the theme "Type on Strap" in "Jekyll", and GitHub. Thanks to their developers! 
+ To be honest, I don't know if this site can work fluently. However, I've done my best
+ Maybe in the future, when I get sufficient knowledge in coding (and English (and maybe Deutsch)), I will present a better website for myself and everyone who wants to see it.
 
- To jC: keep working and dreaming...
+ To jC: Keep working and dreaming...
  --2023.Jul.15
 
- 我正在尝试制作自己的网站，这个网站是基于 "Jekyll "中的主题 "Type on Strap "和github建立的。感谢他们的开发人员！
- 老实说，我不知道这个网站能否流畅地运行。但是，我尝试了，努力了，并将根据我目前的理解尽力而为。
- 也许将来，当我有了足够的编码知识（和英语（也许还有德语）），我会为我自己和大家展示一个更好的网站。
+ 如您所知，我正在尝试制作自己的网站。你在这里看到的网站是基于 "Jekyll "和GitHub的主题 "Type on Strap "建立的。感谢他们的开发人员！
+ 老实说，我不知道这个网站能否顺利运行。不过，我已经尽力了。
+ 也许在将来，当我有足够的编码知识（和英语（也许还有德语））时，我会为我自己和所有想看到它的人展示一个更好的网站。
 
  致jC: 继续工作和梦想。。。
  -2023.七月.15
 
-#### Can We See It?
+
 
 
