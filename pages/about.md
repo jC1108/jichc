@@ -2,30 +2,46 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "https://img1.doubanio.com/view/note/l/public/p94462887.webp"
+feature-img: "https://img1.doubanio.com/view/note/l/public/p94463009.webp"
 tags: [Page]
 ---
+### Welcome! Here is jC's personal website.
 
-Welcome! Here is jC's personal website. 
+&nbsp;&nbsp;&nbsp;&nbsp; The strange name of this website is consisted of my name, the word "Web" in both English and German, and the word "World" in german. Although there should be an underline between "Web" and "Welt" in formal German, but I am too lazy to add it. ;P.
 
-I've had the idea of creating a website that belongs to me since last year (around Oct., 2022) dued to some funny ideas I had while chatting with my mother. At the end of 2022 I had tried to make my website based on other website building platforms, I tried two but both failed. Then I had a specific dream (or it can be described as an "aim") of having such a website at the begaining this year (around Jan.4, 2023). And in July, 2023, with the help of GitHub["https://github.com/"] and Jekyll["http://jekyllthemes.org/page18/"], I started building my website, which is the one we see now. 
+&nbsp;&nbsp;&nbsp;&nbsp; I've had the idea of creating a website that owned by me since last year (around Oct., 2022). At the end of 2022 I had tried to make my website based on other website building platforms, I tried two but was unsuccessful with both. Then, at the beginning of this year (around January 4, 2023), I set a specific goal to create such a website (in this year). And in July, 2023, with the help of [GitHub](https://github.com/) and [Jekyll](http://jekyllthemes.org/page18/), I started building my website, which is the one we see now. 
 
+&nbsp;&nbsp;&nbsp;&nbsp; I am sure that manymistakes (like grammar mistakes, and spelling mistakes) exist in this website. If you notice any, please forgive me and feel free to report them by emailing [me]("mailto:winter_endless@163.com). Thank you. 
 
-
-The website is incomplete currently;
-
-  "  There’s a million things I haven’t done,
-
-but just you wait, just you wait... " ("Hamilton" ["https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6?si=81324bcccaaf4aba&nd=1"]). 
-
-
+&nbsp;&nbsp;&nbsp;&nbsp; Also, will this website continue to be updated in the future? I don't know. I cannot guarantee it, as my personality and working style are quite unpredictable. Hopefully, I will continue update this website, but it highly depend on my variable interests and schedules.    
      
-Last but not least, thanks for your vist and reading!
-
-
+&nbsp;&nbsp;&nbsp;&nbsp; Whatever, thanks for your visit and reading!
 
 Sincerely,
 
 jC.
 
-July.17, 2023
+July.18, 2023
+
+> "There’s a million things I haven’t done, but just you wait, just you wait... "(["Hamilton"](https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6?si=81324bcccaaf4aba&nd=1)).
+
+<br>
+
+### 欢迎！这里是jC的个人网站。
+
+&nbsp;&nbsp;&nbsp;&nbsp; 这个奇怪的网站名称由我的名字、英文和德文的 "网络" 以及德文的 "世界 "组成。尽管在正式的德语中，"Web "和 "Welt "之间应该有下划线，但我懒得加了. ;P.
+
+&nbsp;&nbsp;&nbsp;&nbsp;  从去年（2022年10月左右）开始，我就有了创建一个属于自己的网站的想法。在2022年底，我曾试图在其他网站建设平台上创建自己的网站，我尝试了两个，但都没有成功。然后，在今年年初（约2023年1月4日），我设定了一个具体的目标，即在今年创建这样一个网站。2023年7月，在[GitHub](https://github.com/)和[Jekyll](http://jekyllthemes.org/page18/)的帮助下，我开始建立我的网站，也就是我们现在看到的网站。
+
+&nbsp;&nbsp;&nbsp;&nbsp; 我确信这个网站存在许多程序漏洞和错误（如语法错误和拼写错误）。如果您发现任何错误，请原谅我，并随时通过电子邮件通知[我]("mailto:winter_endless@163.com)。谢谢。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 另外，本网站今后还会继续更新吗？我不知道。我不能保证，因为我的个性和工作风格是很难预测的。希望我还会更新这个网站，但这在很大程度上取决于我波动的兴趣和任性的时间表。   
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 无论如何，感谢您的访问和阅读！
+
+真诚的
+
+jC.
+
+2023年7月18日
+
