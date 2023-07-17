@@ -6,6 +6,4 @@ tags: [2023, Test, Sample]
 categories: Demo
 ---
 
-A gereal post sample 🫏;
-
-And here we go! 
+A general post sample 🫏.
