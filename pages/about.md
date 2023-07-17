@@ -5,6 +5,8 @@ permalink: /about/
 feature-img: "https://img1.doubanio.com/view/note/l/public/p94463009.webp"
 tags: [Page]
 ---
+jC, July.18, 2023.
+
 ### Welcome! Here is jC's personal website.
 
 &nbsp;&nbsp;&nbsp;&nbsp; The strange name of this website is consisted of my name, the word "Web" in both English and German, and the word "World" in german. Although there should be an underline between "Web" and "Welt" in formal German, but I am too lazy to add it. ;P.
@@ -17,13 +19,10 @@ tags: [Page]
      
 &nbsp;&nbsp;&nbsp;&nbsp; Whatever, thanks for your visit and reading!
 
-Sincerely,
+<br>
 
-jC.
-
-July.18, 2023
-
-> "There’s a million things I haven’t done, but just you wait, just you wait... "(["Hamilton"](https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6?si=81324bcccaaf4aba&nd=1)).
+> "There’s a million things I haven’t done, but just you wait, just you wait... "
+(["Hamilton"](https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6?si=81324bcccaaf4aba&nd=1)).
 
 <br>
 
@@ -38,10 +37,3 @@ July.18, 2023
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 另外，本网站今后还会继续更新吗？我不知道。我不能保证，因为我的个性和工作风格是很难预测的。希望我还会更新这个网站，但这在很大程度上取决于我波动的兴趣和任性的时间表。   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 无论如何，感谢您的访问和阅读！
-
-真诚的
-
-jC.
-
-2023年7月18日
-
