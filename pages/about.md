@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "https://img2.doubanio.com/view/note/l/public/p94461082.webp"
+feature-img: "https://img1.doubanio.com/view/note/l/public/p94462887.webp"
 tags: [Page]
 ---
 
