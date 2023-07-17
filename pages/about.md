@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "https://img1.doubanio.com/view/note/l/public/p94463009.webp"
+feature-img: "assets/img/feature-img/DSC03607.JPG"
 tags: [Page]
 ---
 jC, July.18, 2023.
@@ -37,3 +37,11 @@ jC, July.18, 2023.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 另外，本网站今后还会继续更新吗？我不知道。我不能保证，因为我的个性和工作风格是很难预测的。希望我还会更新这个网站，但这在很大程度上取决于我波动的兴趣和任性的时间表。   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 无论如何，感谢您的访问和阅读！
+
+<br> 
+
+### Notice 请留意
+
+邮箱的超链接好像出了问题，如需报告错误，请联系：winter_endless@163.com。
+
+There seems to be a problem with the hyperlinks in the mailbox. To report a bug, please contact: winter_endless@163.com.
