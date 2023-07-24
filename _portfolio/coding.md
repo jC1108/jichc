@@ -3,7 +3,7 @@ layout: post
 title: Coding
 img: "assets/img/portfolio/ich_bin_jc.png"
 date: 24 July 2023
-tags: [2023]
+tags: [Year2023]
 ---
 
 > 科技改变生活
