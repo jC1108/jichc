@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/feature-img/DSC03607.JPG"
+feature-img: "assets/img/pexels/fish.jpg"
 tags: [Page]
 ---
 jC, July.24, 2023.
