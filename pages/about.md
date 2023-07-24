@@ -25,7 +25,7 @@ jC, July.24, 2023.
 
 <br>
 
-> "There’s a million things I haven’t done, but just you wait, just you wait... "
+> "There’s a million things I haven’t done, but just you wait, just you wait... ”
 (["Hamilton"](https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6?si=81324bcccaaf4aba&nd=1)).
 
 <br>
