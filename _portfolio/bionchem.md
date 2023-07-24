@@ -2,7 +2,7 @@
 layout: post
 title: Bio&Chem Club
 feature-img: "assets/img/portfolio/搞滑雪.png"
-img: "assets/img/portfolio/DSC03282.JPG"
+img: "assets/img/portfolio/滑雪.png"
 date: 24 July 2023
 tags: [Year2023,Portfolio]
 ---
