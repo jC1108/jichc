@@ -1,5 +1,6 @@
 ---
 layout: page
+feature-img: "assets/img/pexels/ocean.JPG"
 title: Gallery
 subtitle: My works.
 permalink: /gallery/
