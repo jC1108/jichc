@@ -4,7 +4,7 @@ title: Photograph
 feature-img: "assets/img/portfolio/DSC03282.JPG"
 img: "assets/img/portfolio/DSC03282.JPG"
 date: 24 July 2023
-tags: [Year2023]
+tags: [Year2023,Portfolio]
 ---
 
 #### 偶尔摄影📷
