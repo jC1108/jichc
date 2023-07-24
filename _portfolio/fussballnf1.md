@@ -3,7 +3,7 @@ layout: post
 title: Sorrowful competition sports
 img: "assets/img/portfolio/a la carcel.png"
 date: 24 July 2023
-tags: [Year2023]
+tags: [Year2023,Portfolio]
 ---
 ![image]({{ page.img | relative_url }})
 
