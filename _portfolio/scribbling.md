@@ -24,6 +24,3 @@ As you can see, all hand-painted works on this site (so far) are created by me.
 Like I said, "Abstraction is my ego."
 
 If you're interested, you can see more abstract works in “[gallery](https://jc1108.github.io/jC-1.0/gallery/)”.
-
-<br>
-assets/img/feature-img/donkey_draft.jpg
