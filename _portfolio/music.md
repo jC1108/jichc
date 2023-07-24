@@ -18,7 +18,7 @@ Listen to some [music](https://music.163.com/#/user/home?id=1661316242) currentl
 <br>
 
 > development plan for this page:
-> 1. add something I forget.
+> 1. resume the recommendation?  [later; about March/April, 2024]
 > 2. add the feature-img later.
 > 3. add spotify link.
 > 4. delete the comment memo.
