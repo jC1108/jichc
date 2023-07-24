@@ -13,7 +13,7 @@ tags: [2023]
 
 就像我说的，“抽象即本我”。
 
-如果您感兴趣，可以在 “[gallery](https://jc1108.github.io/jC-1.0/portfolio/)” 中查看更多抽象作品。
+如果您感兴趣，可以在 “[gallery](https://jc1108.github.io/jC-1.0/gallery/)” 中查看更多抽象作品。
 
 <br>
 
@@ -23,7 +23,7 @@ As you can see, all hand-painted works on this site (so far) are created by me.
 
 Like I said, "Abstraction is my ego."
 
-If you're interested, you can see more abstract works in “[gallery](https://jc1108.github.io/jC-1.0/portfolio/)”.
+If you're interested, you can see more abstract works in “[gallery](https://jc1108.github.io/jC-1.0/gallery/)”.
 
 <br>
 assets/img/feature-img/donkey_draft.jpg
