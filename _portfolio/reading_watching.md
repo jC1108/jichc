@@ -8,6 +8,7 @@ tags: [Year2023,Portfolio]
 ![image]({{ page.img | relative_url }})
 
 > 图片表现了在 ["Romeo and Juliet"](https://www.sparknotes.com/nofear/shakespeare/romeojuliet/) 中Mercutio 被 Tybalt 杀了的场景
+> 
 > The image shows Mercutio being killed by Tybalt in ["Romeo and Juliet"](https://www.sparknotes.com/nofear/shakespeare/romeojuliet/).
 
 <br>
