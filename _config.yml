@@ -4,7 +4,7 @@ url: "https://github.com/jC1108"
 
 # THEME-SPECIFIC CONFIGURATION
 title: jC's                                    # site's title
-description: "jC's website with blog posts and pages"      # used by search engines
+description: ""      # used by search engines
 avatar: assets/img/jC-beagle.jpg                         # Empty for no avatar in navbar
 favicon: assets/img/jC-beagle.jpg                             # Icon displayed in the tab
 
