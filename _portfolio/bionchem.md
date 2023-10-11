@@ -7,20 +7,27 @@ date: 24 July 2023
 tags: [Year2023,Portfolio]
 ---
 
-#### 我（2023-2024）的社团！
+My beloved club 🥹!
+<br> 
 
-每年稳定发生一次爆炸💥。
 
-~~也许以后要被我变成科学社~~
+### &nbsp;&nbsp;&nbsp;&nbsp;  All Students from my high school , Join us if you're:
 
-anyway，欢迎您来！
 
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp; A. Interested in biology and chemistry
 
-#### My (2023-2024) club!
 
-💥 One explosion per year.
+&nbsp;&nbsp;&nbsp;&nbsp; B. Looking for a community that can discuss about academic topics
 
-~~Maybe I'll turn it into a science club~~
 
-Anyways, you're welcome to come!
+&nbsp;&nbsp;&nbsp;&nbsp; C. Longing for practical experiences without worrying about finances
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; D. Willing to build up a new friendship
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; E. All above!
+
+<br> 
+
+> If you want to join us, please send <a href="mailto:winter_endless@163.com">me</a> an email.
