@@ -7,11 +7,7 @@ tags: [Year2023,Portfolio]
 ---
 ![image]({{ page.img | relative_url }})
 
-<br>
-
 > "Keep the blue flag flying high";
-> 
-> "Stern des Südens, du wirst niemals untergehen". 
 
 <br>
 
@@ -21,5 +17,8 @@ tags: [Year2023,Portfolio]
 
 <br>
 
-#### My miserable life of sports watching.
-It's on every day and every weekend on time.
+#### Watching Sport Matches 
+
+(Alomst weekly,) including EPL, Bundesliga, Fomular 1, and so on.
+
+
