@@ -9,10 +9,10 @@ avatar: assets/img/jC-beagle.jpg                         # Empty for no avatar i
 favicon: assets/img/jC-beagle.jpg                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: jC's Web Welt   # Change Blog header text
+header_text: jCs Welt   # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
-footer_text: Created by jC
+footer_text: Created by jC.
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
