@@ -8,6 +8,6 @@ gallery_path: "assets/img/pexels"
 tags: [Page]
 ---
 
-Contains everything I've uploaded.
+Pictures~
 
 {% include gallery.html gallery_path=page.gallery_path %}
