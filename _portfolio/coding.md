@@ -15,12 +15,10 @@ tags: [Year2023,Portfolio]
 
 譬如写这个网站。
 
-个人cs练习时长一年后即将两年半。
+
 
 <br>
 
-#### Write something random
+#### Write something seldomly
 
-Like writing about this site..
-
-After one year, my cs practicum will be close to 2.5 years.
+Like writing this site..
