@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sorrowful competition sports
+title: fussball und f eins
 img: "assets/img/portfolio/a la carcel.png"
 date: 24 July 2023
 tags: [Year2023,Portfolio]
@@ -19,6 +19,9 @@ tags: [Year2023,Portfolio]
 
 #### Watching Sport Matches 
 
-(Alomst weekly,) including EPL, Bundesliga, Fomular 1, and so on.
+(Alomst eveey week,）
+
+
+including EPL, Bundesliga, Fomular 1, and so on.
 
 
