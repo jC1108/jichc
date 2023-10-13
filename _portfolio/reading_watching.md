@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading Book, Watching Movie
+title: Reading and Watching
 img: "assets/img/feature-img/R+J.JPG"
 date: 24 July 2023
 tags: [Year2023,Portfolio]
