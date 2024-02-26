@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New, Now
+title: New Year, New Post!
 tags: [Year2024] 
 ---
 
