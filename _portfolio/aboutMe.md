@@ -48,10 +48,9 @@ Aka Cordelia or Coco.
 
 [One Ok Rock](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO?si=AhL-N5BKTBO14fySLdpPig)也很喜欢。
 
-目前我的人生单曲是[THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc?si=LlYhT0M4QwiVW-25uT1a-w)
+目前我的人生单曲是[THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc?si=LlYhT0M4QwiVW-25uT1a-w);
 
-我正在研究怎么把我的歌单植入到这个网页里，敬请期待......
-
+[点击查看我的歌单节选](https://open.spotify.com/embed/playlist/1JSSiLsomvqWTI8S9mtgcm?utm_source=generator)。
 
 <br>
 
