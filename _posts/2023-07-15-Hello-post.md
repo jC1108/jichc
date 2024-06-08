@@ -7,9 +7,8 @@ categories: Demo
 ---
 #### Can We See It?
 
- As you may know, I am trying to make my own website. And this website you can see is established based on the theme "Type on Strap" in "Jekyll", and GitHub. Thanks to their developers! 
- To be honest, I don't know if this site can work fluently. However, I've done my best
- Maybe in the future, when I get sufficient knowledge in coding (and English (and maybe Deutsch)), I will present a better website for myself and everyone who wants to see it.
+As you know, I am attempting to create my own website. The site you see here is built using "Jekyll" and the GitHub theme "Type on Strap". Thanks to their developers! Honestly, I don't know if this site will run smoothly, but I've done my best. Maybe in the future, when I have enough coding knowledge (and English, and maybe even German), I will present a better website for myself and anyone who wants to see it.
+
 
  To jC: Keep working and dreaming...
  
