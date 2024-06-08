@@ -53,7 +53,7 @@ Aka Cordelia or Coco.
 [点击查看我的歌单节选](https://open.spotify.com/embed/playlist/1JSSiLsomvqWTI8S9mtgcm?utm_source=generator)。
 
 ##### Spotify Embed Test
-<iframe src="https://open.spotify.com/embed/playlist/1JSSiLsomvqWTI8S9mtgcm?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/1JSSiLsomvqWTI8S9mtgcm?utm_source=generator" width="100%" height="352" frameBorder="0" allowtransparency="true"></iframe>
 
 <br>
 
