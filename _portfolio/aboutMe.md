@@ -14,7 +14,7 @@ Aka Cordelia or Coco.
 <br>
 
 
-来自广东深圳。2006年生。现在“流浪”在加拿大，目前就读与University of Toronto。
+来自广东深圳。2006年生。现在“流浪”在加拿大，目前就读于University of Toronto。
 
 
 <br>
