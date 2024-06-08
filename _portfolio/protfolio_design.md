@@ -12,6 +12,7 @@ tags: [Portfolio]
 
 <br>
 
-{% include aligner.html images="assets/img/portfolio_photos_june0724/Wood_SoccerPlayer_.jpeg" column=1 %}
+![996f0ddcd54fed1a67003889ed1dd7a9.png](https://i2.mjj.rip/2024/06/08/996f0ddcd54fed1a67003889ed1dd7a9.png)
+
 
 木工课和partner一起手搓的小人和我设计的的[作品集](https://drive.google.com/file/d/175XdorDisbFAB6afm0TsKKszNLksPA61/view?usp=drive_link)（涉及一些隐私信息，需要输入密码；如果想要访问，可以联系<a href="mailto:winter_endless@163.com">我</a>）。
