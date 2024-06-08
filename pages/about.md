@@ -5,6 +5,15 @@ permalink: /about/
 feature-img: "assets/img/pexels/fish.jpg"
 tags: [Page]
 ---
+
+> If you want to know more about me,
+> 
+> please visit ["this page"](https://jc1108.github.io/jichc/portfolio/aboutme)!
+
+
+<br>
+
+
 jC, July.24, 2023.
 
 <br>
