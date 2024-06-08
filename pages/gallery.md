@@ -1,6 +1,6 @@
 ---
 layout: page
-feature-img: "assets/img/pexels/sky.JPG"
+feature-img: "assets/img/pexels/penguin1.jpeg"
 title: Gallery
 subtitle: Photographs.
 permalink: /gallery/
