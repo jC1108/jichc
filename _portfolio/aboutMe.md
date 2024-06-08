@@ -2,7 +2,7 @@
 layout: post
 title: Ich_bin_jC
 img: "assets/img/portfolio_photos_june0724/aboutM.jpg"
-date: 07 July 2024
+date: 07 June 2024
 tags: [Portfolio,jC]
 ---
 
@@ -10,7 +10,6 @@ Hi!  I am jC.
 
 Aka Cordelia or Coco.
  
-
 
 <br>
 
@@ -32,7 +31,6 @@ Aka Cordelia or Coco.
 擅长用苹果日历提醒我自己。
 
 
-
 <br>
 
 
@@ -41,7 +39,6 @@ Aka Cordelia or Coco.
 抽象作品创作者。我认为我有的时候比我的作品还抽象。
 
 偶尔写点东西，可能会放到这个网站里。
-
 
 
 <br>
