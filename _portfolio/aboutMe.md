@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ich bin jC
+title: Ich_bin_jC
 img: "assets/img/portfolio_photos_june0724/aboutM.jpg"
 date: 07 July 2024
-tags: [Portfolio, jC]
+tags: [Portfolio,jC]
 ---
 
 Hi!  I am jC.
