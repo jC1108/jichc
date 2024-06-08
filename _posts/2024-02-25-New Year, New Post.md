@@ -7,17 +7,18 @@ author: jC
 
 Hi!
 
-It've been a long time since the last time I updated.
+It's been a while since my last update. I hope you're still interested in what I've been up to.
 
-Hope you're still interested in it.
+Let's see what I can share now...
 
-Let me think what can I share now...
+Last year (2023), I started studying Deutsch (German for "German") and scored 99/100 in my German 1 class. Wonderbar!
 
-Last year (2023) I started studying Deutsch (German for "German"), and got a 99/100 in my  German 1 Class. Wonderbar!!!
+Unfortunately, my eye and dental problems are still worsening, so I plan to cut back on soft drinks and sweets.
 
-My eye and dental problems are still getting worse. So I plan to drink less soft drinks and eat less sweets.
+Wishing everyone good health!
 
-Hope everyone is always healthy.
+
+
 
 <br>
   
