@@ -2,8 +2,6 @@
 layout: post
 author: jC
 title: 眼下的世界 / The World of Mine
-feature-img: "assets/img/feature-img/NS-Jul25/p08-woman-3.jpg"
-thumbnail: "assets/img/feature-img/NS-Jul25/p08-woman-2.jpg"
 tags: [Blogs, Year2024]
 ---
 
