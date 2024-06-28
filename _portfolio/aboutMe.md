@@ -2,7 +2,7 @@
 layout: post
 title: Ich_bin_jC
 img: "assets/img/pexels/LeonTheDog.jpeg"
-date: 07 June 2024
+date: 08 November 2006
 tags: [Portfolio,jC]
 ---
 
@@ -14,7 +14,7 @@ Aka Cordelia or Coco.
 <br>
 
 
-来自广东深圳。2006年生。现在“流浪”在加拿大，目前就读于University of Toronto。
+来自广东深圳，天蝎座。2006年生。现在“流浪”在加拿大，目前就读于University of Toronto。
 
 
 <br>
@@ -22,7 +22,7 @@ Aka Cordelia or Coco.
 
 半脚猫英语，四分之一脚猫德语水平。目前的中文也是一摊的状态。
 
-略懂Python和Java；为了搞这个网站自学了一点Markdown和https。希望懂的人可以教教我。
+略懂Python和Java；为了搞这个网站自学了一点Markdown和https。希望更有研究的人可以多为此网站提建议多教教我。
 
 精通Microsoft Office（Excel不是特别行）。擅长用Canva设计，不过挑模版很让我头痛。
 
@@ -50,7 +50,7 @@ Aka Cordelia or Coco.
 
 目前我的人生单曲是[THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc?si=LlYhT0M4QwiVW-25uT1a-w);
 
-[点击查看我的歌单节选](https://open.spotify.com/embed/playlist/1JSSiLsomvqWTI8S9mtgcm?utm_source=generator)。
+[点击查看我的歌单节选](https://open.spotify.com/embed/playlist/1JSSiLsomvqWTI8S9mtgcm?utm_source=generator)。（这些连接现在有问题，正在尝试修改😢）
 
 ##### Spotify Embed Test
 <iframe src="https://open.spotify.com/embed/playlist/1JSSiLsomvqWTI8S9mtgcm?utm_source=generator" width="100%" height="352" frameBorder="0" allowtransparency="true"></iframe>
@@ -88,8 +88,8 @@ INTJ 4w5 458。
 
 暂时没有特别多要加的了；也暂时没有精力翻译这群文字了。
 
-不过还是借鉴Gao大师的话,
+不过还是借鉴Y. Gao的话,
 
-" Here is jC,
+'' Here is jC,
 
-I  don't think a written self-introduction can represent the real me. Please see me instead to know about me".
+I  don't think a written self-introduction can represent the real me. Please see me instead to know about me ''.
