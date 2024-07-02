@@ -29,8 +29,8 @@ cookie_consent: false                                   # To respect the usage o
 color_theme: auto                                       # auto, dark or light
 
 # Comments
-comments:
-  disqus_shortname: jichc                                    # Your discus shortname for comments
+comments: true                                          # enable if true
+  disqus_shortname: jichc                               # Your discus shortname for comments
   cusdis_app_id:                                        # Your cusdis data-app-id
   utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
     repo:                                               # your public comments repository (e.g. owner/repo)
