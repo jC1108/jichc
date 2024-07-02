@@ -29,12 +29,12 @@ cookie_consent: false                                   # To respect the usage o
 color_theme: auto                                       # auto, dark or light
 
 # Comments
-comments: true                                          # enable if true
+comments: 
   disqus_shortname: jichc                               # Your discus shortname for comments
   cusdis_app_id:                                        # Your cusdis data-app-id
   utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
-    repo:                                               # your public comments repository (e.g. owner/repo)
-    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+    repo: owner                                              # your public comments repository (e.g. owner/repo)
+    issue-term: comment                                        # Issue term (e.g. "comment" consider issues with this word in the title as comments)
 
 # PAGINATION
 paginate: 5
