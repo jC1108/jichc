@@ -18,3 +18,5 @@ In this club, I...
 <br>
 
 点击可查看我组织设计与编辑的[招新Booklet](https://drive.google.com/file/d/1IvjBrOSzCzjY2NhFhjqCn4cWbys6N7a3/view?usp=sharing)（涉及一些隐私信息，需要输入密码；如果想要访问，可以联系<a href="mailto:winter_endless@163.com">我</a>）。
+
+[Worked with Marry Z, Nicole S, and Vicky G.]
