@@ -50,10 +50,10 @@ Aka Cordelia or Coco.
 
 目前我的人生单曲是[THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc?si=LlYhT0M4QwiVW-25uT1a-w);
 
-[点击查看我的歌单节选](https://open.spotify.com/embed/playlist/1JSSiLsomvqWTI8S9mtgcm?utm_source=generator)。（这些连接现在有问题，正在尝试修改😢）
+[点击查看我的歌单节选](https://open.spotify.com/playlist/6SunOCUlXw7egUaOPqptQ8?si=372dcc2facf0433c)。（这些连接现在有问题，正在尝试修改😢）
 
 ##### Spotify Embed Test
-<iframe src="https://open.spotify.com/embed/playlist/1JSSiLsomvqWTI8S9mtgcm?utm_source=generator" width="100%" height="352" frameBorder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/6SunOCUlXw7egUaOPqptQ8?utm_source=generator" width="100%" height="352" frameBorder="0" allowtransparency="true"></iframe>
 
 <br>
 
