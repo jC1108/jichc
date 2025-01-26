@@ -14,4 +14,4 @@ The wanted poster for Frankenstein.
 <br>
 
 
-Worked with Samuel M.
+Worked with S.Mo.
