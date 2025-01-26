@@ -28,7 +28,7 @@ jC, July.24, 2023.
 &nbsp;&nbsp;&nbsp;&nbsp;也许您已经注意到了本网站的标识（比格犬），这是我去年在双排键课上画的。不过它没有什么特别的含义。:D
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;网站内的文件链接（部分有加密，希望访问可以联系<a href="mailto:winter_endless@163.com">我</a>）和音乐链接是基于Spotify和Google Drive上传的，如果您在国内访问本网站并对这些内容感兴趣，您需要进行一些网络技术手段才可以访问。
+&nbsp;&nbsp;&nbsp;&nbsp;网站内的文件链接（部分有加密，希望访问可以联系<a href="mailto:winter_endless@163.com">我</a>）和音乐链接是基于Google Drive和Spotify上传的，如果您在中国大陆访问本网站并对这些内容感兴趣，您需要使用一些技术手段才可以访问。
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 无论如何，感谢您的访问和阅读！
