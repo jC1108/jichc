@@ -8,28 +8,22 @@ tags: [Portfolio,jC]
 
 Hi!  I am jC.
 
-Aka Cordelia or Coco.
+Aka Cordelia / Coco.
  
 
 <br>
 
-
-来自广东深圳，天蝎座。2006年生。现在“流浪”在加拿大，目前就读于University of Toronto。
-
+目前常驻 TOR🇨🇦 和SHZ🇨🇳
 
 <br>
 
-
 半脚猫英语，四分之一脚猫德语水平。目前的中文也是一摊的状态。
 
-略懂Python和Java；为了搞这个网站自学了一点Markdown和https。希望更有研究的人可以多为此网站提建议多教教我。
+略懂Python和Java和C；为了搞这个网站自学了一点Markdown和https。
 
-精通Microsoft Office（Excel不是特别行）。擅长用Canva设计，不过挑模版很让我头痛。
+熟练使用Microsoft Office（Excel不是特别行）。
 
-苹果全家桶。主要生产力依靠我的Macbook Pro 16" M1 pro.
-
-擅长用苹果日历提醒我自己。
-
+偶尔Design with Canva.
 
 <br>
 
@@ -50,7 +44,7 @@ Aka Cordelia or Coco.
 
 目前我的人生单曲是[THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc?si=LlYhT0M4QwiVW-25uT1a-w);
 
-[点击查看我的歌单节选](https://open.spotify.com/playlist/6SunOCUlXw7egUaOPqptQ8?si=372dcc2facf0433c)。（这些连接现在有问题，正在尝试修改😢）
+[点击查看我的歌单节选](https://open.spotify.com/playlist/6SunOCUlXw7egUaOPqptQ8?si=372dcc2facf0433c)。
 
 ##### Spotify Embed Test
 <iframe src="https://open.spotify.com/embed/playlist/6SunOCUlXw7egUaOPqptQ8?utm_source=generator" width="100%" height="352" frameBorder="0" allowtransparency="true"></iframe>
@@ -60,15 +54,15 @@ Aka Cordelia or Coco.
 
 爱看。
 
-看电影；目前最喜欢的导演是诺兰，最爱的作品是星际穿越。最近在看House M.D.，看了好久还没看完。豆瓣重度用户。
+看电影；目前最爱的作品是星际穿越。最近在看House M.D.，但是看了好久还没看完。。。
 
 看书；其实我打到这里的时候已经有点心虚了。最喜欢的作家是汪曾祺和三毛。
 
 看球；支持德拜的切尔西球迷。
 
-看车；倒是没有主队，但是个人比较喜欢梅赛德斯牌子本身，所以偏心梅奔。
+看f1； racing with Mercedes, supporting M.Verstappen.
 
-看世界；想去旅行。想去英国看球，想去德国看球，想到处看球看车。想去南美，因为很喜欢三毛的《万水千山走遍》
+看世界；想去旅行。想去英国看球，想去德国看球，想到处看球看车。想去南美，因为很喜欢三毛的《万水千山走遍》。
 
 
 <br>
@@ -78,9 +72,9 @@ Aka Cordelia or Coco.
 
 接下来我要念一段咒语，我很有可能是：
 
-INTJ 4w5 458。
+INTP 4w5 415。
 
-不过我认为如果我是INTP也是合理的。
+不过我认为如果我是458疑似也是合理的。
 
 
 <br>
